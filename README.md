@@ -23,4 +23,4 @@ Untuk menjalankan aplikasi ini secara lokal, ikuti langkah-langkah berikut:
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/web-coffee.git
+   git clone https://github.com/Adam22166002/Tugas-Pwa-Web-Coffe.git
